@@ -47,16 +47,17 @@ por Andeil; cada etapa será preenchida somente com informações confirmadas.
 A Etapa 1 está em andamento. O histórico profissional inicial foi registrado,
 e uma linha do tempo de 1993 a 2026 foi montada. A formação inicial também foi
 registrada, embora parte dos cursos antigos não possua documentação ou detalhes
-completos. Qualidade de software foi escolhida como porta de entrada inicial. O
-próximo passo é entender as funções dessa área e avaliar quais conhecimentos
-continuam atuais e quais precisam ser revisados.
+completos. Qualidade de software foi escolhida como porta de entrada inicial.
 
-O primeiro plano de preparação foi criado em
-`planejamento/plano-inicial-30-dias.md`, e o roteiro diário está em
-`planejamento/roteiro-de-estudos.md`. Os materiais gratuitos iniciais foram
-selecionados; ainda será necessário revisar o roteiro antes do início.
+O primeiro plano de preparação está em
+`planejamento/plano-inicial-30-dias.md`, e o roteiro diário em
+`planejamento/roteiro-de-estudos.md`.
 
-O primeiro projeto documental de portfólio foi iniciado em
-`portfolio/qa-manual-cadastro-simulado/`. A estrutura da tela foi registrada,
-mas as regras ainda precisam ser definidas com Andeil antes da criação dos
-casos de teste.
+O primeiro projeto documental de portfólio foi concluído em
+`portfolio/qa-manual-cadastro-simulado/`: requisitos, 34 casos de teste,
+resultados simulados, 3 bugs, reteste e regressão. A versão 1 está publicada no
+GitHub.
+
+Próximos passos em aberto: complementar cursos antigos quando possível,
+detalhar conhecimentos atuais, avançar no currículo e no LinkedIn, e continuar
+a entender a rotina de qualidade de software no mercado.
