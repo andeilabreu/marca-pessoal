@@ -1,0 +1,5 @@
+# Instalação temporária do GitHub CLI (não faz parte do projeto)
+.github-cli-temp/
+
+# Repositório Git aninhado do portfólio (publicado em separado)
+portfolio/qa-manual-cadastro-simulado/.git/
