@@ -12,7 +12,7 @@ ainda precisam ser detalhados estão identificados como **a definir**.
 - 2005–2007: SESI-SC.
 - 2007–2014: Rede Promove-MG.
 - 2014–2023: Ar Informática e Portal Informática.
-- 2023–2026: atuação como autônomo.
+- Janeiro de 2023–atual: atuação como autônomo.
 
 Ar Informática e Portal Informática eram empresas diferentes, com CNPJs
 distintos, mas pertencentes ao mesmo grupo.
@@ -218,12 +218,14 @@ Perfil dos clientes, ferramentas e resultados: **a definir**.
   - outras atividades pertinentes à área administrativa, ainda não
     detalhadas.
 - As atribuições adicionais eram exercidas nas duas empresas.
-- Atuação como autônomo: 2023 a 2026.
+- Atuação como autônomo: janeiro de 2023 até o presente.
+- Localidade-base da atuação autônoma: Sete Lagoas-MG.
 - Atividades como autônomo:
   - prestação de serviços de suporte;
   - leitura de editais para licitações na área de informática;
   - elaboração de propostas;
   - execução de serviços de suporte relacionados à área de TI.
+- Modalidades dos serviços autônomos: presencial, híbrida e remota.
 
 Clientes atendidos, tipos de suporte, resultados e participação em licitações:
 **a definir**.

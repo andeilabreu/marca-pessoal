@@ -5,13 +5,14 @@
 
 # Andeil Abreu
 
-**Profissional de TI em transição para Qualidade de Software | Testes Manuais | Suporte**
+**Profissional de TI | Qualidade de Software e Testes Manuais | Suporte a Sistemas**
 
 Sete Lagoas-MG | Disponível para trabalho presencial, híbrido ou remoto |
 Disponibilidade para mudança
 
 Telefone: **a preencher** | E-mail: **a preencher**  
-LinkedIn: **a preencher** | GitHub: **a preencher**
+LinkedIn: https://www.linkedin.com/in/andeil-abreu-92a9711a7
+GitHub: https://github.com/andeilabreu
 
 ## Resumo profissional
 
@@ -39,11 +40,13 @@ modernas de QA.
 - Windows Server, PaperCut e Sistema Aula.
 - SQL Server, MySQL e Delphi.
 - Git e GitHub em fase de aprendizado.
+- Projeto educacional de QA Manual publicado no GitHub, com requisitos, 34
+  casos de teste, relatórios de bugs, reteste e regressão.
 - Administração de TI e liderança de equipes.
 
 ## Experiência profissional
 
-### Profissional autônomo de TI | 2023–2026
+### Profissional autônomo de TI | Janeiro de 2023–atual
 
 - Prestação e execução de serviços de suporte de TI.
 - Leitura de editais de licitações na área de informática.

@@ -18,8 +18,8 @@ formado por planejamento e documentação em arquivos Markdown.
 
 - Nome completo: Andeil Ferreira da Silva Abreu.
 - Nome profissional escolhido: Andeil Abreu.
-- Título profissional escolhido: “Profissional de TI em transição para
-  Qualidade de Software | Testes Manuais | Suporte”.
+- Título profissional escolhido: “Profissional de TI | Qualidade de Software e
+  Testes Manuais | Suporte a Sistemas”.
 - Andeil está voltando agora ao mercado de tecnologia.
 - Seu conhecimento atual sobre as tecnologias mencionadas ainda é básico.
 - Informou disponibilidade de 20 horas por semana e prefere estudar de segunda
@@ -127,7 +127,7 @@ formado por planejamento e documentação em arquivos Markdown.
 - 2007–2009: Lagoa Informática, de Belo Horizonte-MG.
 - 2014–2023: Ar Informática e Portal Informática, empresas diferentes, com
   CNPJs distintos e pertencentes ao mesmo grupo.
-- 2023–2026: atuação como autônomo, prestando suporte de TI, lendo editais de
+- 2023–atual: atuação como autônomo, prestando suporte de TI, lendo editais de
   licitações na área de informática, elaborando propostas e executando serviços
   de suporte relacionados à área de TI.
 
@@ -310,6 +310,7 @@ sobre:
 - `memoria/`: fatos confirmados, referências e decisões tomadas.
 - `planejamento/`: etapas e evolução da estratégia de retorno ao mercado.
 - `curriculo/`: rascunho do currículo profissional.
+- `linkedin/`: textos e etapas para reconstrução do perfil no LinkedIn.
 - `portfolio/`: projetos documentais de QA, sem código ou dados confidenciais.
 - `.cursor/rules/`: orientações permanentes para o assistente.
 

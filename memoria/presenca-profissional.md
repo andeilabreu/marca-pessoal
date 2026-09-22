@@ -4,13 +4,19 @@
 
 - Nome completo: Andeil Ferreira da Silva Abreu.
 - Nome profissional escolhido: Andeil Abreu.
-- Título profissional escolhido: Profissional de TI em transição para Qualidade
-  de Software | Testes Manuais | Suporte.
+- Título profissional escolhido: Profissional de TI | Qualidade de Software e
+  Testes Manuais | Suporte a Sistemas.
+- LinkedIn:
+  [andeil-abreu-92a9711a7](https://www.linkedin.com/in/andeil-abreu-92a9711a7).
 - Localização: Sete Lagoas-MG.
 - Currículo atualizado: não.
 - Perfil no LinkedIn: existe.
-- Situação do LinkedIn: precisa ser reconstruído.
-- Conta no GitHub: existe.
+- Situação do LinkedIn: reconstrução em andamento; título e seção “Sobre”
+  atualizados, projeto de QA adicionado em “Destaques” e experiência autônoma
+  atual incluída.
+- Conta no GitHub: [andeilabreu](https://github.com/andeilabreu).
+- Primeiro projeto público:
+  [portfolio-qa-manual](https://github.com/andeilabreu/portfolio-qa-manual).
 - Modalidades de trabalho aceitas:
   - presencial;
   - híbrida;
@@ -22,8 +28,7 @@
 
 ## Informações ainda necessárias
 
-- Conteúdo atual do GitHub: **a definir**.
-- Endereços dos perfis: não informados.
+- Outros conteúdos do GitHub: ainda não avaliados.
 - Outros perfis profissionais: **a definir**.
 
 ## Próximas ações

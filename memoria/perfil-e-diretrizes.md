@@ -37,6 +37,8 @@ sem construção de código.
 - Separar fatos confirmados de hipóteses, sugestões e assuntos a definir.
 - Registrar novas informações relevantes em arquivos Markdown organizados.
 - Não presumir que um tema citado já é conhecido ou dominado por Andeil.
+- Traduzir para português as mensagens, instruções e avisos apresentados em
+  inglês.
 
 ## Informações ainda não fornecidas
 
