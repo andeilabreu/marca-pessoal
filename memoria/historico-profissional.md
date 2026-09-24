@@ -10,8 +10,8 @@ ainda precisam ser detalhados estão identificados como **a definir**.
   relacionados à área de TI.
 - 1999–2005: Unimed Joinville, da rede Unimeds de Santa Catarina.
 - 2005–2007: SESI-SC.
-- 2007–2014: Rede Promove-MG.
-- 2014–2023: Ar Informática e Portal Informática.
+- Fevereiro de 2007–dezembro de 2014: Rede Promove-MG.
+- Janeiro de 2014–outubro de 2023: Ar Informática e Portal Informática.
 - Janeiro de 2023–atual: atuação como autônomo.
 
 Ar Informática e Portal Informática eram empresas diferentes, com CNPJs
@@ -140,7 +140,11 @@ Outras tecnologias, tipos de equipamentos e responsabilidades detalhadas:
 
 - Administração da área de TI da rede de escolas Promove.
 - Locais informados: Sete Lagoas e Belo Horizonte-MG.
-- Período informado: 2007 a 2014.
+- Período informado: fevereiro de 2007 a dezembro de 2014.
+- Tipo de emprego: tempo integral.
+- Localidade principal: Sete Lagoas-MG, com atuação também em Belo
+  Horizonte-MG.
+- Modalidades dessa atuação: presencial, híbrida e remota.
 - Cargo ou função informado: “adm. de TI”.
 - Vínculo informado: carteira assinada.
 - Escopo informado: responsável por toda a área de tecnologia.
@@ -196,8 +200,10 @@ Perfil dos clientes, ferramentas e resultados: **a definir**.
 
 ## Outras referências da linha do tempo
 
-- Ar Informática e Portal Informática: 2014 a 2023. Eram empresas diferentes,
-  com CNPJs distintos, mas pertencentes ao mesmo grupo.
+- Ar Informática e Portal Informática: janeiro de 2014 a outubro de 2023. Eram
+  empresas diferentes, com CNPJs distintos, mas pertencentes ao mesmo grupo.
+- Localidade principal dessa atuação: Sete Lagoas-MG.
+- Modalidades dessa atuação: presencial, híbrida e remota.
 - Função inicialmente descrita nas duas empresas: sócio-proprietário. A
   titularidade e os vínculos foram detalhados abaixo.
 - Responsabilidades e serviços informados:

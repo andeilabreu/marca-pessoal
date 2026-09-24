@@ -52,7 +52,7 @@ modernas de QA.
 - Leitura de editais de licitações na área de informática.
 - Elaboração de propostas.
 
-### Ar Informática e Portal Informática | 2014–2023
+### Ar Informática e Portal Informática | Janeiro de 2014–outubro de 2023
 
 **Titular da Ar Informática e atuação na gestão da Portal Informática**
 
@@ -62,7 +62,7 @@ modernas de QA.
 - Contratação e dispensa de funcionários.
 - Fechamento de caixa e atividades administrativas.
 
-### Rede Promove-MG | 2007–2014
+### Rede Promove-MG | Fevereiro de 2007–dezembro de 2014
 
 **Administração de TI | Carteira assinada**
 

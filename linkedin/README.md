@@ -47,6 +47,56 @@ contribuir.
   - Leitura de editais de licitações na área de informática.
   - Elaboração de propostas.
 
+## Experiência — Ar Informática e Portal Informática
+
+- **Situação no LinkedIn:** adicionada ao perfil.
+- **Cargo escolhido:** Titular e gestor.
+- **Tipo de emprego sugerido:** Autônomo.
+- **Empresa:** Ar Informática e Portal Informática.
+- **Início:** Janeiro de 2014.
+- **Término:** Outubro de 2023.
+- **Localidade:** Sete Lagoas, Minas Gerais, Brasil.
+- **Modalidades realizadas:** presencial, híbrida e remota.
+- **Opção sugerida no campo único do LinkedIn:** Híbrida.
+- **Vínculos confirmados:** titular formal da Ar Informática e atuação na Portal
+  Informática por acordo com o outro titular, sem vínculo formal.
+- **Descrição:**
+  - Administração de equipe de vendas.
+  - Manutenção de computadores, impressoras, copiadoras e sistemas.
+  - Implantação de impressoras fiscais.
+  - Contratação e dispensa de funcionários.
+  - Fechamento de caixa e atividades administrativas.
+
+## Experiência — Rede Promove-MG
+
+- **Situação no LinkedIn:** adicionada ao perfil.
+- **Cargo sugerido:** Administrador de TI.
+- **Vínculo confirmado:** carteira assinada.
+- **Tipo de emprego:** Tempo integral.
+- **Empresa:** Rede Promove-MG.
+- **Início:** Fevereiro de 2007.
+- **Término:** Dezembro de 2014.
+- **Localidade:** Sete Lagoas, Minas Gerais, Brasil.
+- **Modalidades realizadas:** presencial, híbrida e remota.
+- **Opção sugerida no campo único do LinkedIn:** Híbrida.
+- **Descrição:**
+  - Responsável pela área de tecnologia de cinco unidades e por uma equipe de
+    30 colaboradores.
+  - Administração de redes, laboratórios de informática, servidores e sistema
+    acadêmico.
+  - Adequação dos laboratórios e da estrutura às normas do MEC.
+  - Implantação do Sistema Aula, incluindo instalação, cadastros, controles de
+    acesso, treinamento e suporte.
+  - Implantação do controle de impressões com PaperCut, Windows Server e Sistema
+    Aula, com economia observada de 50%.
+  - Reestruturação de servidores e redes.
+- **Competências adicionadas:**
+  - Administração de TI;
+  - liderança de equipes;
+  - infraestrutura de TI;
+  - redes de computadores;
+  - Windows Server.
+
 ## Projeto para adicionar em “Destaques”
 
 - **Nome:** Projeto de QA Manual — Cadastro de usuário.
