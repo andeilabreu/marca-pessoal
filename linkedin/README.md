@@ -97,6 +97,26 @@ contribuir.
   - redes de computadores;
   - Windows Server.
 
+## Experiência — Lagoa Informática
+
+- **Situação no LinkedIn:** adicionada ao perfil.
+- **Cargo:** Suporte e desenvolvedor.
+- **Tipo de emprego:** Contrato.
+- **Empresa:** Lagoa Informática.
+- **Início:** Maio de 2007.
+- **Término:** Dezembro de 2009.
+- **Localidade:** Belo Horizonte, Minas Gerais, Brasil.
+- **Modalidade:** Presencial.
+- **Descrição:**
+  - Desenvolvimento em Delphi com SQL Server e MySQL.
+  - Trabalho com o Infolab, responsável pela interface entre equipamentos
+    laboratoriais e o sistema.
+  - Leitura de resultados, geração de arquivos HTML e preparação de resultados
+    para impressão ou envio por e-mail a pacientes e médicos.
+  - Participação na automação de um processo anteriormente manual.
+  - Atendimento a laboratórios e hospitais, incluindo Hermes Pardini e
+    laboratórios da Santa Casa de Belo Horizonte.
+
 ## Projeto para adicionar em “Destaques”
 
 - **Nome:** Projeto de QA Manual — Cadastro de usuário.

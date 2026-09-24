@@ -79,7 +79,7 @@ modernas de QA.
 - Diagnóstico e correção de falha física em uma porta de switch em 2013,
   restabelecendo o funcionamento normal da rede.
 
-### Lagoa Informática | 2007–2009
+### Lagoa Informática | Maio de 2007–dezembro de 2009
 
 **Suporte e desenvolvimento | Contrato**
 

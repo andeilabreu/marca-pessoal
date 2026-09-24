@@ -124,7 +124,7 @@ formado por planejamento e documentação em arquivos Markdown.
 - 1999–2005: Unimed Joinville, da rede Unimeds de Santa Catarina.
 - 2005–2007: SESI-SC.
 - Fevereiro de 2007–dezembro de 2014: Rede Promove-MG.
-- 2007–2009: Lagoa Informática, de Belo Horizonte-MG.
+- Maio de 2007–dezembro de 2009: Lagoa Informática, de Belo Horizonte-MG.
 - 2014–2023: Ar Informática e Portal Informática, empresas diferentes, com
   CNPJs distintos e pertencentes ao mesmo grupo.
 - 2023–atual: atuação como autônomo, prestando suporte de TI, lendo editais de

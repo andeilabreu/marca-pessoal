@@ -115,7 +115,9 @@ Anos das mudanças de vínculo, outros sistemas utilizados e resultados:
   laboratórios da Santa Casa de Belo Horizonte.
 - Empresa por meio da qual realizou o trabalho: Lagoa Informática, de Belo
   Horizonte-MG.
-- Período informado: 2007 a 2009.
+- Período informado: maio de 2007 a dezembro de 2009.
+- Localidade principal: Belo Horizonte-MG.
+- Modalidade: presencial.
 - O trabalho ocorreu simultaneamente às atividades na Rede Promove e na
   NUCLEMIG-MG.
 - Funções informadas: suporte e desenvolvedor.
