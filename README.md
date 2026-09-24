@@ -184,9 +184,10 @@ exemplos reais e separadas por nível de segurança e necessidade de atualizaç�
 - Resolução de rejeições de notas fiscais durante a emissão para a Receita
   Federal. As causas mais comuns eram erros de digitação ou código CFOP
   informado incorretamente durante o registro da nota fiscal. Um dos sistemas
-  atendidos era o Chart Sistemas, entre 2013 e 2022. Andeil tinha vínculo por
-  contrato com a empresa Chart Sistemas, de Sete Lagoas, e também prestava esse
-  suporte pelas empresas Ar Informática e Portal Informática.
+  atendidos era o Chart Sistemas, entre outubro de 2013 e janeiro de 2022.
+  Andeil tinha vínculo por contrato com a empresa Chart Sistemas, de Sete
+  Lagoas, e também prestava esse suporte pelas empresas Ar Informática e Portal
+  Informática.
 
 Datas, ferramentas, ações detalhadas e resultados mensuráveis desses casos:
 **a definir**.

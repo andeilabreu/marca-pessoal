@@ -218,6 +218,9 @@ Perfil dos clientes, ferramentas e resultados: **a definir**.
   - suporte ao Chart Sistemas pela empresa Chart Sistemas, de Sete Lagoas, Ar
     Informática e Portal Informática.
 - Vínculo direto com a empresa Chart Sistemas: contrato.
+- Período de suporte ao Chart Sistemas: outubro de 2013 a janeiro de 2022.
+- Localidade principal: Sete Lagoas-MG.
+- Modalidade: híbrida.
 - As atribuições eram praticamente iguais nas duas empresas.
 - Algumas atribuições adicionais foram informadas:
   - contratação de funcionários;

@@ -67,6 +67,24 @@ contribuir.
   - Contratação e dispensa de funcionários.
   - Fechamento de caixa e atividades administrativas.
 
+## Experiência — Chart Sistemas
+
+- **Situação no LinkedIn:** adicionada ao perfil.
+- **Cargo sugerido:** Suporte de sistemas.
+- **Tipo de emprego:** Contrato.
+- **Empresa:** Chart Sistemas.
+- **Início:** Outubro de 2013.
+- **Término:** Janeiro de 2022.
+- **Localidade:** Sete Lagoas, Minas Gerais, Brasil.
+- **Modalidade:** Híbrida.
+- **Descrição:**
+  - Suporte ao sistema Chart.
+  - Diagnóstico e resolução de rejeições de notas fiscais.
+  - Identificação de erros de digitação e de códigos CFOP incorretos durante o
+    registro das notas.
+  - Atendimento por contrato direto e também por meio da Ar Informática e da
+    Portal Informática.
+
 ## Experiência — Rede Promove-MG
 
 - **Situação no LinkedIn:** adicionada ao perfil.

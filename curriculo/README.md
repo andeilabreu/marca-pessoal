@@ -100,12 +100,12 @@ modernas de QA.
 - Uso de Visual Basic e Delphi.
 - Aulas aos sábados, nos períodos da tarde e da noite.
 
-### Chart Sistemas | 2013–2022
+### Chart Sistemas | Outubro de 2013–janeiro de 2022
 
 **Suporte por contrato**
 
-- Atendimento realizado pela empresa Chart Sistemas, de Sete Lagoas, Ar
-  Informática e Portal Informática.
+- Atendimento prestado à empresa Chart Sistemas, de Sete Lagoas, por contrato
+  direto e também por meio da Ar Informática e da Portal Informática.
 - Diagnóstico e resolução de rejeições de notas fiscais.
 - Identificação de erros de digitação e códigos CFOP incorretos durante o
   registro das notas.

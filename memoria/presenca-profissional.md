@@ -14,7 +14,7 @@
 - Situação do LinkedIn: reconstrução em andamento; título e seção “Sobre”
   atualizados, projeto de QA adicionado em “Destaques” e experiência autônoma
   atual, experiência na Ar Informática/Portal Informática e experiência na Rede
-  Promove e na Lagoa Informática incluídas.
+  Promove, na Chart Sistemas e na Lagoa Informática incluídas.
 - Conta no GitHub: [andeilabreu](https://github.com/andeilabreu).
 - Primeiro projeto público:
   [portfolio-qa-manual](https://github.com/andeilabreu/portfolio-qa-manual).

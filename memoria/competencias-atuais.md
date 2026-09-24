@@ -163,7 +163,7 @@ Os detalhes e exercícios foram organizados em
   - erros de digitação;
   - código CFOP informado incorretamente durante o registro da nota fiscal.
 - Sistema informado: Chart Sistemas.
-- Período de suporte ao Chart Sistemas: 2013 a 2022.
+- Período de suporte ao Chart Sistemas: outubro de 2013 a janeiro de 2022.
 - Vínculo direto com a empresa Chart Sistemas: contrato.
 - Contextos pelos quais prestou esse suporte:
   - empresa Chart Sistemas, de Sete Lagoas;
