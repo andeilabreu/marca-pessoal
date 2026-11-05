@@ -92,7 +92,7 @@ modernas de QA.
 - Atendimento a laboratórios e hospitais, incluindo Hermes Pardini e
   laboratórios da Santa Casa de Belo Horizonte.
 
-### NUCLEMIG-MG | 2007–2010
+### NUCLEMIG-MG | Março de 2007–novembro de 2010
 
 **Instrutor autônomo**
 
@@ -110,7 +110,7 @@ modernas de QA.
 - Identificação de erros de digitação e códigos CFOP incorretos durante o
   registro das notas.
 
-### SESI-SC | 2005–2007
+### SESI-SC | Aproximadamente março de 2005–dezembro de 2007
 
 **Assistente administrativo no setor de TI**
 

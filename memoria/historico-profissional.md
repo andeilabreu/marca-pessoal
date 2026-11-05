@@ -9,7 +9,7 @@ ainda precisam ser detalhados estão identificados como **a definir**.
 - 1996–1999: atuação autônoma, por contratos de prestação de serviços
   relacionados à área de TI.
 - 1999–2005: Unimed Joinville, da rede Unimeds de Santa Catarina.
-- 2005–2007: SESI-SC.
+- Aproximadamente março de 2005–dezembro de 2007: SESI-SC.
 - Fevereiro de 2007–dezembro de 2014: Rede Promove-MG.
 - Janeiro de 2014–outubro de 2023: Ar Informática e Portal Informática.
 - Janeiro de 2023–atual: atuação como autônomo.
@@ -47,9 +47,11 @@ posteriores, nas seguintes atividades:
 ## Ensino de informática
 
 - Instituição informada: escola NUCLEMIG-MG.
-- Período informado: 2007 a 2010.
+- Período informado: março de 2007 a novembro de 2010.
 - Cargo informado: instrutor.
 - Vínculo informado: autônomo.
+- Localidade: Sete Lagoas-MG.
+- Modalidade: presencial.
 - Conteúdo informado: todos os procedimentos de hardware e software.
 - Visual Basic e Delphi estavam entre as tecnologias utilizadas.
 - Essa atividade ocorreu simultaneamente ao trabalho na Rede Promove.
@@ -94,7 +96,11 @@ Clientes, detalhes dos serviços, ferramentas e resultados: **a definir**.
 - Vínculo na Unimed Joinville:
   - inicialmente, carteira assinada;
   - posteriormente, contrato.
-- Período informado para o SESI-SC: 2005 a 2007.
+- Período aproximado informado para o SESI-SC: março de 2005 a dezembro de
+  2007, ainda a confirmar.
+- Tipo de emprego: tempo integral.
+- Localidade: Joinville-SC.
+- Modalidade: presencial.
 - Cargo informado no SESI-SC: assistente administrativo.
 - Setor informado no SESI-SC: TI.
 - Vínculo no SESI-SC:

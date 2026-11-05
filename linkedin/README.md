@@ -135,6 +135,49 @@ contribuir.
   - Atendimento a laboratórios e hospitais, incluindo Hermes Pardini e
     laboratórios da Santa Casa de Belo Horizonte.
 
+## Experiência — SESI-SC
+
+- **Situação no LinkedIn:** rascunho pronto — aguardando confirmação de cadastro
+  no perfil.
+- **Cargo:** Assistente administrativo no setor de TI.
+- **Empresa:** SESI-SC.
+- **Início aproximado:** Março de 2005.
+- **Término aproximado:** Dezembro de 2007.
+- **Situação das datas:** provisórias, ainda a confirmar.
+- **Vínculo:** inicialmente carteira assinada e posteriormente contrato.
+- **Tipo de emprego no LinkedIn:** Tempo integral.
+- **Localidade:** Joinville, Santa Catarina, Brasil.
+- **Modalidade:** Presencial.
+- **Descrição:**
+  - Uso do sistema Power Informática.
+  - Conciliação bancária.
+  - Resolução de problemas relacionados ao fechamento de caixa.
+  - Atuação com pagamentos e recebimentos em contas bancárias.
+
+## Experiência — Unimed Joinville
+
+- **Situação no LinkedIn:** rascunho pronto — ainda não cadastrada no perfil.
+- **Cargo:** Assistente administrativo no setor de TI.
+- **Empresa:** Unimed Joinville (rede Unimeds de Santa Catarina).
+- **Início:** 1999.
+- **Término:** 2005.
+- **Situação das datas:** apenas o ano foi confirmado; mês ainda a definir.
+- **Vínculo:** inicialmente carteira assinada e posteriormente contrato.
+- **Tipo de emprego no LinkedIn:** Tempo integral.
+- **Localidade:** Joinville, Santa Catarina, Brasil.
+- **Modalidade:** a definir.
+- **Descrição:**
+  - Uso do sistema Power Informática.
+  - Conciliação bancária.
+  - Resolução de problemas relacionados ao fechamento de caixa.
+  - Atuação com pagamentos e recebimentos em contas bancárias.
+
+## Decisão de recorte
+
+A experiência como instrutor na NUCLEMIG-MG não será incluída no LinkedIn neste
+momento, para manter o perfil mais direcionado a qualidade de software, testes
+e suporte. Ela continuará registrada no histórico profissional e no currículo.
+
 ## Projeto para adicionar em “Destaques”
 
 - **Nome:** Projeto de QA Manual — Cadastro de usuário.

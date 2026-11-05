@@ -62,10 +62,10 @@ formado por planejamento e documentação em arquivos Markdown.
   Delphi foram utilizados posteriormente para lecionar, auxiliar na implantação
   de CPDs em empresas e prestar auxílio a lojas de venda de computadores. Os
   períodos e vínculos dessas atividades ainda precisam ser detalhados. A
-  experiência como instrutor ocorreu entre 2007 e 2010 na escola NUCLEMIG-MG,
-  onde ensinava procedimentos de hardware e software simultaneamente ao
-  trabalho na Rede Promove. Nessa atividade, atuava como autônomo e ministrava
-  aulas aos sábados, nos períodos da tarde e da noite.
+  experiência como instrutor ocorreu entre março de 2007 e novembro de 2010 na
+  escola NUCLEMIG-MG, onde ensinava procedimentos de hardware e software
+  simultaneamente ao trabalho na Rede Promove. Nessa atividade, atuava como
+  autônomo e ministrava aulas aos sábados, nos períodos da tarde e da noite.
 - Atuação com sistemas financeiros, auxiliando o setor administrativo da Rede
   Unimed e do SESI-SC, em Joinville-SC. Na Unimed Joinville, pertencente à rede
   Unimeds de Santa Catarina, o cargo informado foi
